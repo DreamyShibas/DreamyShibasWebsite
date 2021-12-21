@@ -17,7 +17,7 @@
 
 .header-control .navbar {
     width: 80%;
-    background-color: #172A55;
+    background-image: linear-gradient(to top right, #aa00ff, rgba(255, 255, 255, 0));
     margin-top: 0px;
     padding-top: 0px;
     border-radius: 20px;
@@ -107,13 +107,13 @@
         position: relative;
         padding-top: 20px;
         padding-bottom: 20px;
-        height: 800px;
+        height: 450px;
         background-repeat: repeat;
         background-position: 100% 40%;
     }
 
     .thePicture {
-        height: 450px;
+        height: 200px;
         border: solid black
          10px;
         border-radius: 20px;

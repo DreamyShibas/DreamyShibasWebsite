@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 //import Assets
-import MintGif from '../../assets/Collection_GIF.gif';
+import MintGif from '../../assets/asdf.png';
 import YButton from "../basic/YButton";
 
 import { BsFileMinusFill, BsFilePlusFill } from 'react-icons/bs';
@@ -84,7 +84,7 @@ function Mint() {
                         <img src={MintGif} alt='mint gif' />
                     </Col>
                     <Col md={6} xs={12} className='mint-description'>
-                        <header>MINT YOUR <text style={{ color: "#88CDDB" }}>SOCIAL OWL</text>
+                        <header>MINT YOUR <text style={{ color: "black" }}>DREAMY SHIBA</text>
                         </header>
                         <p style={{ textAlign: "center" }}>
 

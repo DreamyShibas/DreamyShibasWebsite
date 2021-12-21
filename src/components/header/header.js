@@ -74,9 +74,9 @@ class Header extends React.Component {
                                         onClick={openSea}>OPENSEA</Nav.Link>
                                         <text style={{width: 20}}></text>
                                         <div>
-                       <a style={{textDecoration: "none", color:"white", paddingRight: 10}}target="_blank" rel="noopener noreferrer"href="https://instagram.com/socialowlsnft"> <BsInstagram size={32} /></a>
-                       <a style={{textDecoration: "none", color:"white", paddingLeft: 10, paddingRight: 10}}target="_blank" rel="noopener noreferrer"href="https://twitter.com/socialowlsnft"> <BsTwitter size={32} /></a>
-                       <a style={{textDecoration: "none", color:"white", paddingLeft: 10}}target="_blank" rel="noopener noreferrer"href="https://discord.gg/D2GEzhzygy"> <BsDiscord size={32} />   </a>     
+                       <a style={{textDecoration: "none", color:"white", paddingRight: 10}}target="_blank" rel="noopener noreferrer"href="https://instagram.com/"> <BsInstagram size={32} /></a>
+                       <a style={{textDecoration: "none", color:"white", paddingLeft: 10, paddingRight: 10}}target="_blank" rel="noopener noreferrer"href="https://twitter.com/"> <BsTwitter size={32} /></a>
+                       <a style={{textDecoration: "none", color:"white", paddingLeft: 10}}target="_blank" rel="noopener noreferrer"href="https://discord.gg/"> <BsDiscord size={32} />   </a>     
                     </div>
                                         {/* <a href="https://google.com/"><YButton text='OPENSEA' /></a>
                                     </Nav.Link> */}

@@ -1,5 +1,5 @@
 .about-control {
-    background-color: #172A55;
+    background-image: linear-gradient(to top right, #a10bff, #c04cff77);
     padding-top: 60px;
     padding-bottom: 60px;
     font-weight: 900;
@@ -18,7 +18,7 @@
 .about-description header {
     font-size: 50px;
     line-height: 50px;
-    color: #88CDDB;
+    color: #000000;
     font-style: italic;
     font-weight: 900;
     margin-bottom: 10px;

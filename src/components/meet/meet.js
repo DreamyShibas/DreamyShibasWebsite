@@ -18,7 +18,7 @@ class Meet extends React.Component {
             <div className='meet-control'>
                 <Container>
                     <header style={{textAlign: "center"}}>
-                         PEEP <br /> <span>OUR OWLS!</span>
+                         CHECK OUT <br /> <span>OUR SHIBAS!</span>
                     </header>
                 </Container>
                 <InfiniteCarousel
@@ -55,37 +55,28 @@ class Meet extends React.Component {
                                 scrollOnDevice={true}
                             >
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/1.png"} alt='boy1' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/1.png"} alt='boy1' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/2.png"} alt='boy2' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/21.png"} alt='boy2' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/3.png"} alt='boy3' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/41.png"} alt='boy1' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/4.png"} alt='boy4' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/111.png"} alt='boy2' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/5.png"} alt='boy5' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/121.png"} alt='boy1' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/6.png"} alt='boy6' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/311.png"} alt='boy2' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/7.png"} alt='boy6' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/411.png"} alt='boy1' />
                                 </div>
                                 <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/8.png"} alt='boy6' />
-                                </div>
-                                <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/9.png"} alt='boy6' />
-                                </div>
-                                <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/10.png"} alt='boy6' />
-                                </div>
-                                <div>
-                                    <img className="caroImg" src={"https://socialowls.s3.amazonaws.com/11.png"} alt='boy6' />
+                                    <img className="caroImg" src={"https://dreamyshibas.s3.us-east-2.amazonaws.com/551.png"} alt='boy2' />
                                 </div>
                 </InfiniteCarousel>
                 
