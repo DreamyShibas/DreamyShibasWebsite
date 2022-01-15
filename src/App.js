@@ -13,6 +13,7 @@ import About from './components/about/about';
 import Meet from './components/meet/meet';
 import FounderThing from './components/founderthing/founderthing';
 import il from './assets/CenterPic.png';
+import Faqmap from './components/faqmap/faqmap';
 import './assets/newStyle.css';
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
       {/* <FounderThing /> */}
       {/* <Team /> */}
       {/* <JoinCommunity /> */}
+      <Faqmap/>
       <Footer />
     </div>
   );

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba5094fe.chunk.css",
-    "main.js": "/static/js/main.e8fa379f.chunk.js",
-    "main.js.map": "/static/js/main.e8fa379f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0c258aa1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0c258aa1.js.map",
+    "main.css": "/static/css/main.c94a67ae.chunk.css",
+    "main.js": "/static/js/main.3b798cb3.chunk.js",
+    "main.js.map": "/static/js/main.3b798cb3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bab2e43b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bab2e43b.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.6865fa17.chunk.js": "/static/js/2.6865fa17.chunk.js",
-    "static/js/2.6865fa17.chunk.js.map": "/static/js/2.6865fa17.chunk.js.map",
-    "static/js/3.ecdd5785.chunk.js": "/static/js/3.ecdd5785.chunk.js",
-    "static/js/3.ecdd5785.chunk.js.map": "/static/js/3.ecdd5785.chunk.js.map",
+    "static/js/2.cfbe07ce.chunk.js": "/static/js/2.cfbe07ce.chunk.js",
+    "static/js/2.cfbe07ce.chunk.js.map": "/static/js/2.cfbe07ce.chunk.js.map",
+    "static/js/3.ad6e1ab3.chunk.js": "/static/js/3.ad6e1ab3.chunk.js",
+    "static/js/3.ad6e1ab3.chunk.js.map": "/static/js/3.ad6e1ab3.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d8cb5cde.chunk.css.map": "/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.ba5094fe.chunk.css.map": "/static/css/main.ba5094fe.chunk.css.map",
-    "static/js/2.6865fa17.chunk.js.LICENSE.txt": "/static/js/2.6865fa17.chunk.js.LICENSE.txt",
+    "static/css/main.c94a67ae.chunk.css.map": "/static/css/main.c94a67ae.chunk.css.map",
+    "static/js/2.cfbe07ce.chunk.js.LICENSE.txt": "/static/js/2.cfbe07ce.chunk.js.LICENSE.txt",
     "static/media/CenterPic.8cb4515a.png": "/static/media/CenterPic.8cb4515a.png",
     "static/media/Collection_GIF.480c51c7.gif": "/static/media/Collection_GIF.480c51c7.gif",
     "static/media/join-community.css": "/static/media/DickPix.be6bd296.png",
@@ -34,10 +34,10 @@
     "static/media/meet.css": "/static/media/wood.882e10da.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c258aa1.js",
+    "static/js/runtime-main.bab2e43b.js",
     "static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.6865fa17.chunk.js",
-    "static/css/main.ba5094fe.chunk.css",
-    "static/js/main.e8fa379f.chunk.js"
+    "static/js/2.cfbe07ce.chunk.js",
+    "static/css/main.c94a67ae.chunk.css",
+    "static/js/main.3b798cb3.chunk.js"
   ]
 }

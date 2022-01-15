@@ -85,24 +85,9 @@ function Mint() {
                     </Col>
                     <Col md={6} xs={12} className='mint-description'>
                         <header>MINT YOUR <text style={{ color: "black" }}>DREAMY SHIBA</text>
+                        
                         </header>
-                        <p style={{ textAlign: "center" }}>
-
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum 
-                            <br/><br/>
-                            Lorem ipsum Lorem ipsum 
-                            {/* <text style={{fontWeight: "bold"}}>
-                                <a style={{textDecoration: "none", color: "white", fontWeight: 900, fontSize: 20}}href="https://instagram.com/dickpixnft"> Instagram </a>
-                            </text> 
-                            and 
-                            <text style={{fontWeight: "bold"}}>
-                                <a style={{textDecoration: "none", color: "white", fontWeight: 900, fontSize: 20}}href="https://twitter.com/thedickpixnft"> Twitter!</a>
-                            </text> */}
-                            </p>
+                        <br/><br/>
                         <div className='number-control'>
                             <BsFileMinusFill color='white' size={40} onClick={() => minus_num()} />
                             <span id="inputBox">{mintNum}</span>

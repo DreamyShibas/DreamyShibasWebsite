@@ -15,44 +15,44 @@ class RoadMap extends React.Component {
         this.state = {
             roadmaps: [
                 {
-                    tag: 'Phase 1',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: ' Q1 Phase 1',
+                    title: "Opensea and Rarity Tool Listings",
+                    content: "Dreamy Shibas will officially be listed on OpenSea & Rarity Tool."
                 },
                 {
-                    tag: 'Phase 2',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q1 Phase 2',
+                    title: "Dreamy Shibas Presale",
+                    content: "Dreamy Shibas Presale will officially launch."
                 },
                 {
-                    tag: 'Phase 3',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q2 Phase 3',
+                    title: "Dreamy Shibas Public Sale",
+                    content: "500 Sold - Dreamy Shibas Public Sale will officially launch."
                 },
                 {
-                    tag: 'Phase 4',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q2 Phase 4',
+                    title: "Airdrop & Giveaways",
+                    content: "1000 Sold - Community airdrops & giveaways, exclusive to Dreamy Shibas holders."
                 },
                 {
-                    tag: 'Phase 5',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q3 Phase 5',
+                    title: "20ETH Donations to Dog rescue",
+                    content: "2000 Sold - Dreamy Shibas will donate 20 ETH to a community-chosen dog rescue."
                 },
                 {
-                    tag: 'Phase 6',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q3 Phase 6',
+                    title: "Raffles & Competitions",
+                    content: "3000 Sold - $5000 will be given away in raffles as well as competetion prizes for Dreamy Shibas holders."
                 },
                 {
-                    tag: 'Phase 7',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q4 Phase 7',
+                    title: "Random Giveaways & Airdrops",
+                    content: "4000 Sold - Random giveaways of 50 exclusive Dreamy Shibas & an airdrop giveaway of 100 Dreamy Shibas."
                 },
                 {
-                    tag: 'Phase 8',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: 'Q4 Phase 8',
+                    title: "All Sold Out",
+                    content: "Donations to randomly selected Dog rescue initiatives."
                 }
             ]
         }
